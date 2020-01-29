@@ -1,0 +1,87 @@
+<HTML>
+<HEAD>
+<TITLE>MsK</title>
+
+<LINK href="style.css" TYPE="text/css" rel="stylesheet">
+
+</HEAD>
+<BODY topMargin=0>
+
+<TABLE width=100% CELLPADDING=0 CELLSPACING=0 border=0>
+<TR >
+<TD colspan=2 width=100% height=153 bgcolor="#FBE5E7">
+<table width=100% CELLPADDING=0 CELLSPACING=0>
+<tr>
+<td><img src="images/ledi.jpg"></td>
+<td align=left>
+
+<img src="images/loogo.jpg">
+
+
+</td>
+<td align=right><img src="images/globys1.jpg" ></td>
+</TR>
+</table>
+
+</TD>
+</TR>
+
+<TR>
+<TD colspan=2 width=100% height=7 background="images/line_bg.jpg"></TD>
+</TR>
+
+<TR>
+<TD colspan=2 width=100% height=20 background="images/meni1.jpg">
+<DIV class=newText><MARQUEE WIDTH="100%" BEHAVIOR="scroll" SCROLLAMOUNT="5" DIRECTION="left"><font color="#F4A460">Будь в тренде вместе с нами</font></MARQUEE></DIV>
+
+</TD>
+</TR>
+
+<TR>
+<TD colspan=2 width=100% height=7 background="images/line_bg.jpg"></TD>
+</TR>
+
+
+<TR valign=top>
+<TD class="menu" width=10% height=100% bgcolor="#FAF0E6">
+<p>&nbsp;</p>
+
+
+
+<table CELLPADDING=0 CELLSPACING=0>
+<tr>
+<td width="180"height=2 bgcolor=#A52A2A></td>
+</tr>
+<tr>
+<td class="Nav2" width="180" background="images/meni1.jpg"><DIV class=navText><A href="index.html">Главная</A></DIV></td>
+</tr>
+<tr>
+<td class="Nav2" width="180" background="images/meni1.jpg"><DIV class=navText><A href="otz.html">Отзывы</A></DIV></td>
+</tr>
+<tr>
+<td class="Nav2" width="180" background="images/meni1.jpg"><DIV class=navText><A href="kontakt.html">Контакты</A></DIV></td>
+</tr>
+<tr>
+<td class="Nav2" width="180" background="images/meni1.jpg"><DIV class=navText><A href="magaz.html">Магазин</A></DIV></td>
+</tr>
+<tr>
+<td width="180"height=1 bgcolor=#A52A2A></td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="images/images.jpg">
+<p>&nbsp;</p>
+</TD>
+<TD width=75% height=100% background="images/fooon.jpg"><p>&nbsp;</p><p><font color="#A0522D">Контакты</B>
+<font color="#A0522D"></P>Информационная поддержка: 0 800 303 700 (все звонки по указанному номеру со стационарных и мобильных телефонов в пределах Украины бесплатные)</B>
+
+</P>Юридический адрес:</B>
+
+</P>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “РУШ” (код ЕГРПОУ 32007740)</B>
+
+</P>Местоположение: 49055, Днепропетровская обл.,
+г. Днепр, проспект А.Поля, дом., 104 А</B></p></div></td>
